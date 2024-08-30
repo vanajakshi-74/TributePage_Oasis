@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding: 0%;
+  }
+  img{
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border: 2px solid black;
+  }
+
+  .bio {
+    font-size: large;
+    font-style: serif;
+    text-align: justify;
+    width: 90%;
+    margin-left: 100px;
+  }
+
+  body {
+    color: white;
+    background-color: #1e0303;
+  }
